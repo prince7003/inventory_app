@@ -1,13 +1,13 @@
 # A full stack Inventory management system
 
-### Live Site: https://inventory-navy.vercel.app
+### Live Site: https://Pinventoryapp.vercel.app
 
 <!-- ### Backend Server: https://inventory-420.vercel.app -->
 
 ### Technologies
 
-- **_Backend:_** TypeScript, Node.js, express.js, mongoDB, mongoose, zod
-- **_Frontend:_** TypeScript, React, Redux-toolkit, Ant-design, zod, recharts, react-hook-form, sweetalert2, react-router-dom
+- **_Backend:_** Node.js, express.js, mongoDB, mongoose, zod
+- **_Frontend:_** JavaScript, React, zod, react-hook-form, react-router-dom
 
 # Features
 
